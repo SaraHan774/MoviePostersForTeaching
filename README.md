@@ -11,10 +11,22 @@ forif study november 5th 2019
 - [ ] 이해가 필요한 Java 문법 사항들 check 
 
 ### Links 
--  [Wiki : 안드로이드 버전 역사](https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC)
+- [Wiki : 안드로이드 버전 역사](https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B2%84%EC%A0%84_%EC%97%AD%EC%82%AC)
 - [Document : 액티비티 생명주기](https://developer.android.com/guide/components/activities/activity-lifecycle)
 - [gitbook : 액티비티 생명주기](https://kairo96.gitbooks.io/android/content/ch2.4.1.html)
 - [Document : View](https://developer.android.com/reference/android/view/View)
 - [Color Pallet](https://www.color-hex.com/color-palettes/)
 - [stackOverFlow : setHasFixedSize(true)? (false) ?](https://stackoverflow.com/questions/28827597/when-do-we-use-the-recyclerview-sethasfixedsize)
 - [블로그 : Inner class와 final 변수](https://ybin.tistory.com/8)
+
+
+### etc. 
+- Emulator : Nexus 5 API 25
+- OS : Windows 10 
+- Minimum SDK : API 21 
+
+
+### screen shots 
+
+![MAIN](https://lh3.googleusercontent.com/hZLeS3HsfLGlufDWfsapKoFu7pUy9oQcJvLZjdv3s2t1fKd77izUNIMvxF5k_tUrnPVM-Kowg6be "screenshot_main")
+![DETAIL](https://lh3.googleusercontent.com/HM-vO9wKZSDvXsr4ZAxM743OA3l3myfmahNkzEbLXsP6A8c69XhxNA1T_IeVobnGiTdVTskSNDpe "screenshot_detail")
