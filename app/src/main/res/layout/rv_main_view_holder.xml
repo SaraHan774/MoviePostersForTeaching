@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/colorSmurf"
+    android:elevation="20dp"
+    android:layout_margin="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/main_view_holder_height">
+<!-- TODO 숫자 위에 커서 올리고, alt + enter => 'extract dimension resource'
+        클릭해서 숫자로 쓴 높이를 별도의 폴더에서 관리 -->
+
+<!-- TODO String text 에 대해서도 alt + enter => extract string resource 해서
+        별도의 파일에서 관리 -->
+
+<!-- TODO elevation 적절히 사용하기 -->
+
+    <TextView
+        android:id="@+id/tv_main_dummy_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorDeepOcean"
+        android:textColor="@color/colorWhite"
+        android:text="Sample text"
+        android:layout_margin="30dp"
+    />
+
+
+<!--  TODO Padding 과 Margin 의 차이를 확인. -->
+    <TextView
+        android:id="@+id/tv_main_dummy_text_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorLightSky"
+        android:textColor="@color/colorBlack"
+        android:padding="20dp"
+        android:text="@string/sample_text"
+    />
+
+<!-- TODO Layout gravity = center 속성 사용해보기 -->
+    <Button
+        android:id="@+id/btn_main_dummy_button"
+        android:text="@string/click_me_button_text"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

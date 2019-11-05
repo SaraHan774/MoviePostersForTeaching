@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rv_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+<!-- TODO Recycler View 로 상위 레이아웃을 바꿔준다. Gradle 에
+RecyclerView 라이브러리를 implement 해 주어야 함.  -->
+
+<!-- TODO id 설정 해주기 ! -->
+
+
+
+</androidx.recyclerview.widget.RecyclerView>

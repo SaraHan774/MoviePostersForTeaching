@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+<!--  본인이 앱의 테마 색으로 정한 색 팔레트를 미리 지정해 놓고 시작하면 편함. -->
+<!--  XML 파일에서 커멘트 처리는 ctrl + / -->
+
+    <color name="colorDeepOcean">#123456</color>
+    <color name="colorSmurf">#3eb5c1</color>
+    <color name="colorLightSky">#d6eee4</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+
+</resources>
