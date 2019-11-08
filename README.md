@@ -34,6 +34,8 @@ forif study november 5th 2019
 - 코드랩에는 `android.support.v7.widget.RecyclerView` 를 사용하는데, 저희는 support 라이브러리가 아니라 androidx 라이브러리를 사용합니다. 
 > 안드로이드 스투디오 상단의 Refactor 탭 클릭 -> 탭 하단의 migrate to androidX를 하시고 강좌를 따라가세요. 
 
+### 더 많은 실습을 원하신다면 
+- [Android Fundamentals training](https://developer.android.com/courses/fundamentals-training/toc-v2)
 
 ### etc. 
 - Emulator : Nexus 5 API 25
