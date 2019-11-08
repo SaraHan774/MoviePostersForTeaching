@@ -20,6 +20,19 @@ forif study november 5th 2019
 - [블로그 : Inner class와 final 변수](https://ybin.tistory.com/8)
 
 
+### Activity Lifecycle and state
+- [구글 코드랩 : Activity lifecycle and state](https://codelabs.developers.google.com/codelabs/android-training-activity-lifecycle-and-state/index.html?index=..%2F..%2Fandroid-training#2)
+
+### Activity Navigation (Main 에서 Detail 화면으로 넘어가는 코드 짜는데 필요한 개념)
+- [구글 코드랩 : Activities and Intents](https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html?index=..%2F..%2Fandroid-training#1)
+
+### RecyclerView (꼭 확인해 주세요)
+- [RecyclerView - 구글 공식 PPT](https://docs.google.com/presentation/d/1tLLYBSGl9d8nHc_88007kTOZvXdSY0oqIRF3APIgm34/edit?usp=sharing)
+- [구글 코드랩 : RecyclerView 실습](https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view/index.html?index=..%2F..%2Fandroid-training#0)
+- 코드랩에는 `android.support.v7.widget.RecyclerView` 를 사용하는데, 저희는 support 라이브러리가 아니라 androidx 라이브러리를 사용합니다. 
+> 안드로이드 스투디오 상단의 Refactor 탭 클릭 -> 탭 하단의 migrate to androidX를 하시고 강좌를 따라가세요. 
+
+
 ### etc. 
 - Emulator : Nexus 5 API 25
 - OS : Windows 10 
