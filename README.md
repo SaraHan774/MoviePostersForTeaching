@@ -21,9 +21,11 @@ forif study november 5th 2019
 
 
 ### Activity Lifecycle and state
+- [Activity lifecycle and state - 구글 공식 PPT](https://docs.google.com/presentation/d/1m7fHePW3-LcuCDXWHbOolWNN1y3jDv7V2pI0yVhCwT8/edit#slide=id.g116d7d9d49_3_13)
 - [구글 코드랩 : Activity lifecycle and state](https://codelabs.developers.google.com/codelabs/android-training-activity-lifecycle-and-state/index.html?index=..%2F..%2Fandroid-training#2)
 
 ### Activity Navigation (Main 에서 Detail 화면으로 넘어가는 코드 짜는데 필요한 개념)
+- [Activities and Intents - 구글 공식 PPT](https://docs.google.com/presentation/d/1kjxsI9brdVRIx3rqoB0H-1-PmVlzJbiQNf4PyqzZKJM/edit?usp=sharing)
 - [구글 코드랩 : Activities and Intents](https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html?index=..%2F..%2Fandroid-training#1)
 
 ### RecyclerView (꼭 확인해 주세요)
