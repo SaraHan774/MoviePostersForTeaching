@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="main_view_holder_height">200dp</dimen>
+    <dimen name="img_layout_w_h">100dp</dimen>
+    <dimen name="view_holder_height">300dp</dimen>
 </resources>
