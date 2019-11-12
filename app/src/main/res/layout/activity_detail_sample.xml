@@ -9,6 +9,7 @@
         android:layout_height="wrap_content"
         >
 
+<!--  extract dimension resource -->
         <ImageView
             android:id="@+id/img_detail_movie_poster"
             android:background="@color/colorLightSky"
